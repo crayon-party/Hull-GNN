@@ -1,0 +1,242 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "area": 4.380880050184484,
+      "id": 0
+    },
+    {
+      "area": 0.15080365656502726,
+      "id": 1
+    },
+    {
+      "area": 0.003561154135645933,
+      "id": 2
+    },
+    {
+      "area": 0.06487005405385118,
+      "id": 3
+    },
+    {
+      "area": 0.06273595215933422,
+      "id": 4
+    },
+    {
+      "area": 0.0033729109775955534,
+      "id": 5
+    },
+    {
+      "area": 0.14691809726455565,
+      "id": 6
+    },
+    {
+      "area": 0.28832181065726337,
+      "id": 7
+    },
+    {
+      "area": 0.29084406723521683,
+      "id": 8
+    },
+    {
+      "area": 14.705505736029234,
+      "id": 9
+    },
+    {
+      "area": 0.7128240536326568,
+      "id": 10
+    },
+    {
+      "area": 17.719726472812575,
+      "id": 11
+    },
+    {
+      "area": 13.598989850043118,
+      "id": 12
+    },
+    {
+      "area": 14.705513363465808,
+      "id": 13
+    },
+    {
+      "area": 0.7126218347589304,
+      "id": 14
+    },
+    {
+      "area": 17.746259236212204,
+      "id": 15
+    },
+    {
+      "area": 13.59921585108188,
+      "id": 16
+    }
+  ],
+  "edges": [
+    {
+      "weld_length": 1.2494102590203593,
+      "source": 0,
+      "target": 1
+    },
+    {
+      "weld_length": 0.06345052544736149,
+      "source": 0,
+      "target": 2
+    },
+    {
+      "weld_length": 1.4717373496225397,
+      "source": 0,
+      "target": 3
+    },
+    {
+      "weld_length": 1.47165038242775,
+      "source": 0,
+      "target": 4
+    },
+    {
+      "weld_length": 0.06345052546946639,
+      "source": 0,
+      "target": 5
+    },
+    {
+      "weld_length": 1.2493904590297125,
+      "source": 0,
+      "target": 6
+    },
+    {
+      "weld_length": 1.5656814290585064,
+      "source": 0,
+      "target": 7
+    },
+    {
+      "weld_length": 1.5656814290585082,
+      "source": 0,
+      "target": 8
+    },
+    {
+      "weld_length": 0.18656755138703254,
+      "source": 1,
+      "target": 8
+    },
+    {
+      "weld_length": 1.2425856812489033,
+      "source": 1,
+      "target": 16
+    },
+    {
+      "weld_length": 0.056157563922697495,
+      "source": 1,
+      "target": 2
+    },
+    {
+      "weld_length": 0.06345049166210223,
+      "source": 2,
+      "target": 14
+    },
+    {
+      "weld_length": 0.0560922881650957,
+      "source": 2,
+      "target": 3
+    },
+    {
+      "weld_length": 1.4711901244758678,
+      "source": 3,
+      "target": 13
+    },
+    {
+      "weld_length": 0.03210429119877697,
+      "source": 3,
+      "target": 4
+    },
+    {
+      "weld_length": 1.4711901244758658,
+      "source": 4,
+      "target": 9
+    },
+    {
+      "weld_length": 0.053190800698135206,
+      "source": 4,
+      "target": 5
+    },
+    {
+      "weld_length": 0.06345049166210223,
+      "source": 5,
+      "target": 10
+    },
+    {
+      "weld_length": 0.053125505100671,
+      "source": 5,
+      "target": 6
+    },
+    {
+      "weld_length": 1.2425856812493017,
+      "source": 6,
+      "target": 12
+    },
+    {
+      "weld_length": 0.1833456210629233,
+      "source": 6,
+      "target": 7
+    },
+    {
+      "weld_length": 1.5656806002788395,
+      "source": 7,
+      "target": 11
+    },
+    {
+      "weld_length": 0.18495658643192348,
+      "source": 7,
+      "target": 8
+    },
+    {
+      "weld_length": 1.5656806002788408,
+      "source": 8,
+      "target": 15
+    },
+    {
+      "weld_length": 11.391249777127726,
+      "source": 9,
+      "target": 13
+    },
+    {
+      "weld_length": 11.471853320687574,
+      "source": 9,
+      "target": 10
+    },
+    {
+      "weld_length": 11.516348095332127,
+      "source": 10,
+      "target": 12
+    },
+    {
+      "weld_length": 12.410051329366958,
+      "source": 11,
+      "target": 12
+    },
+    {
+      "weld_length": 11.885016438350412,
+      "source": 11,
+      "target": 15
+    },
+    {
+      "weld_length": 0.9284152120449771,
+      "source": 12,
+      "target": 16
+    },
+    {
+      "weld_length": 11.47185331967345,
+      "source": 13,
+      "target": 14
+    },
+    {
+      "weld_length": 11.51634809533212,
+      "source": 14,
+      "target": 16
+    },
+    {
+      "weld_length": 12.41002928649357,
+      "source": 15,
+      "target": 16
+    }
+  ]
+}
